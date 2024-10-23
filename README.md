@@ -1,16 +1,12 @@
 ## 📊 Research on ChatGPT's Impact on Student Learning
-This repository contains materials related to our research project on the impact of ChatGPT on student learning and various machine learning tasks. The project includes survey data analysis, supervised learning models, and unsupervised learning techniques applied to educational datasets.
+This repository contains materials related to our research project on the impact of ChatGPT on student learning and various machine-learning tasks. The project includes survey data analysis, supervised learning models, and unsupervised learning techniques applied to educational datasets.
 
 ## 🗂 Contents
-list cau hoi.docx - A document containing the questionnaire used in the survey, with questions covering personal information, usage of ChatGPT, opinions on its effectiveness, and personal reflections on its impact on learning.
-NCKH_cleaned.xlsx - The cleaned dataset obtained from the survey responses. This dataset is used in both supervised and unsupervised learning tasks.
-Supervised Learningg.ipynb - A Jupyter Notebook detailing the supervised learning tasks, such as regression and classification models, applied to predict student performance based on their ChatGPT usage.
-Unsupervised Learning.ipynb - A Jupyter Notebook covering the clustering techniques, such as K-Means and DBSCAN, applied to segment students based on their interaction patterns with ChatGPT.
 
 | File Name                 | Description                                                                          |
 |---------------------------|--------------------------------------------------------------------------------------|
 | **list cau hoi.docx**         | A document containing the questionnaire used in the survey, with questions covering personal information, usage of ChatGPT, opinions on its effectiveness, and personal reflections on its impact on learning.|
-| **NCKH_cleaned.xlsx**     | The cleaned dataset obtained from the survey responses. This dataset is used in both supervised and unsupervised learning tasks.                   |
+| **NCKH_cleaned.xlsx**     | The cleaned dataset was obtained from the survey responses. This dataset is used in both supervised and unsupervised learning tasks.                   |
 | **Supervised Learningg.ipynb**  | A Jupyter Notebook detailing the supervised learning tasks, such as regression and classification models, applied to predict student performance based on their ChatGPT usage. |
 | **Unsupervised Learning.ipynb**  | A Jupyter Notebook covering the clustering techniques, such as K-Means and DBSCAN, applied to segment students based on their interaction patterns with ChatGPT.|
 
